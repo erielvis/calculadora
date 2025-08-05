@@ -41,9 +41,6 @@ color: white;
 cursor: pointer;
 transition: 0.2s;
 }
-const resultado = eval(expressao);
-    document.getElementById('visor').innerText = resultado;
-    expressao = resultado.toString();
 button:hover {
 background-color: #777;
 }
