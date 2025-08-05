@@ -46,12 +46,12 @@ background-color: #777;
 }
 
 button.igual {
-background-color: #f81f02;
+background-color: #02f8bb;
 grid-row: span 2;
 }
 
 button.igual:hover {
-background-color: #f83e05;
+background-color: #02f8bb;
 }
 
 button.zero {
