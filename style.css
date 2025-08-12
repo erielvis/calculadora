@@ -1,5 +1,5 @@
 body{
-background-color: #888b8b;
+background-color: #969797;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -46,7 +46,7 @@ background-color: #777;
 }
 
 button.igual {
-background-color: #0bce9d;
+background-color: #10c094;
 grid-row: span 2;
 }
 
